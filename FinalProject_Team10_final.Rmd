@@ -1,6 +1,6 @@
 ---
-title: "Data Mining Final Project Team 10"
-author: "Team 10"
+title: "Stocks Data Analysis using R"
+author: "Sree Ram Avinash Maddikonda"
 date: "2022-11-16"
 output: html_document
 ---
